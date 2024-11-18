@@ -1,0 +1,7 @@
+machine-learning-python-report/
+├── README.md
+├── Content/
+│   ├── API_Documentation.pdf
+│   ├── data_extraction.py
+│   ├── troubleshooting_guide.md
+└── Postman_Collection/
